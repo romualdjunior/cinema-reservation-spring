@@ -32,7 +32,7 @@ import java.util.List;
 @Transactional
 @CrossOrigin(origins = "*", allowedHeaders = "*")
 public class CinemaRestController {
-    final static String UPLOADED_FOLDER = "C:\\Romuald\\Travail personnel\\Spring\\cinema-reservations\\back\\images\\";
+    final static String UPLOADED_FOLDER = "/home/romualdmotcheho/cinema-reservation-spring/images/";
 
     @Autowired
     FilmRepository filmRepository;
