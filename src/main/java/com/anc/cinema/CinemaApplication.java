@@ -21,7 +21,7 @@ public class CinemaApplication implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        repositoryRestConfiguration.exposeIdsFor(Ville.class, Cinema.class, Film.class, Ticket.class, Salle.class);
+      /*  repositoryRestConfiguration.exposeIdsFor(Ville.class, Cinema.class, Film.class, Ticket.class, Salle.class);
         cinemaService.initVilles();
         cinemaService.initCinemas();
         cinemaService.initSalles();
@@ -30,6 +30,6 @@ public class CinemaApplication implements CommandLineRunner {
         cinemaService.initCategories();
         cinemaService.initFilms();
         cinemaService.initProjections();
-        cinemaService.initTickets();
+        cinemaService.initTickets();*/
     }
 }
