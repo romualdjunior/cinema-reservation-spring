@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cinema-reservation-381507",
+  "private_key_id": "f024d632214c4e73c183e4d74165eeb545436047",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/vidi7ddjQEWE\n2NKujn/uAghkBgnWLQpuQmWh/Z3+rqcxbxJTOXWrnUX1w9Qibn8alrutmbMAs1Hn\nMl9UjFHBl3aIJcJDToL20/FWoz2eeCfO59wKGfyou+uSE7bu2btxPKaKWPVurNZz\n8B3yfn2os5a1+9jiyp4mrnmQyj0qdsHTOlHYmzmPfnu2Ay1y+vzC3tBYhX8yulmP\n/ORZzvzo0AtA6x1qYp0IhZDyi2PW00GdR9pGUPX42WgW1x8/W+hpNW3PcNBlEbW+\nCIFY4BCWuXKpK6Rwpr40MDBN+Wng9ilY7VOWtbE5AJscV7R7nXUfnaIGSEVeNNhU\naxSn3H/lAgMBAAECggEACVgRL81C6JOOf7uYQsjve5AOTB+ONamCv15NeSA0pZ9p\nxuswg61Can9S1Df7m8TyPT+4vCxIEKHsfR2Tjzl6V3qT3G0ooyKNl806ztvMKi+V\nUwwyCSz8htWHlJoQ2WFzdMB9pjLRHRhfqA08zF81LPY5gztXda/llqF8i52Lbwj+\nObY+z79Da5koopJTxj8Yq2C1KIU7pnxVmGjKor95ttw+GTqQ+BIjDatLLFEBJuWW\nqAk7zXB7JUIW7/FWeKnE77VlsO8TgxEMu/GLXTbJFVw/TkGWy6shRPfnFSUlb9CX\nHpmXoYG6UOn5DhLyU5T2QVMQREBH/DkLSUs625z+WQKBgQD+teczrNd6kwHLkgXX\nYdSGDFOtmK+elHMbsyIFR9piqafrUjKTTleXNELV5HY1dpQ7IrpYdmwu7h63i3w6\n0u0LAtYUPXdUtnB9PiUX6++HIxXWYJmdJdRl7YBVkVyIgn6jJEE26gC5H91LnCL/\n5RStpyfJ7ayl3ngS5mo1zNw9zQKBgQDAtqV/M3lEZd3W0VTHgK2srjeR0/vHHGfm\nIcIzF1EqlO1+VtS9HkJH36e4dg01Rv9lkxHHQP3reVOSlU//dM9nyr3nD2DKCzSl\nAxUQblmy0iMgUjKZE49HYBAO6jQb8lBAtv1pjo8whF0/Bl4ngpzAUEvf92ER3K0z\nN5NnkzZyeQKBgDu5XXARfCkipU4dfD8nklSoOUrAPZW6i08Ybsa8NWnjDBuyl2dQ\n/FrZBz7uJgWdO16uYvFxOya58PvqugN1B94IGTh/vSZg7PmBA+ObD/wo7urolbxy\nbV5FFU17Gy5rItSQILaGogrGfPZIszA7f+DEDCFeGJiAFLmhy4+37ICVAoGALjvj\nipfj0RgLV91S1KY3hIUric3sysEy4BBbUfyXGXsvWy8jzNd0mV+8ElIoKw8EeO8G\nxeH+yT6LYVB3J9dzZvhKBSQ4WWDE2Y3awN1oobEugjOWNgluR3Zxg9KGe+nvfQcp\n1ug/zCkFYfh6IEqCptTczze/TxS9bNs5fxDfcCkCgYEA4pyyKjbMxWw5Hkyi7k+Y\nixYoZS+2PzCUUeocl/Z6GzR4iH0W8WujilFi3fTYCVQBYpsC4xmpSJiVHJ+R18/j\ngi5baewHFcjlAvfe37/0j0Nzxw0TmLhDj4H7rVdXM6VuGd+dVIiXKVi4PFeI+APP\nQTiqxAjqJD7JY3yfh+MSZPQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cinema-reservation-service@cinema-reservation-381507.iam.gserviceaccount.com",
+  "client_id": "112480246881118495761",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cinema-reservation-service%40cinema-reservation-381507.iam.gserviceaccount.com"
+}
